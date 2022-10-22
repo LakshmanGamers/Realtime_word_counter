@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Word Counter</string>
+    <string name="calculate_tip"> Enter the text</string>
+    <string name="cost_of_service">Text</string>
+    <string name="tip_amount">String length : %s</string>
+    <string name="word">Word count : %s</string>
+</resources>
+
